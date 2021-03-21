@@ -19,7 +19,14 @@ This project will create an ecommerce database which you can view all the produc
 
 ## Usage
 
-  Run a node server.js command to start the server. Then within insomnia you can run various routes to view, update, create and delete data within the database.
+  Run a node server.js command to start the server. Then within insomnia you can run various routes to view, update, create and delete data within the database.'
+
+  ![Create Database](assets/img/Create_Database.jpg)
+  ![Seed DB](assets/img/Seed_DB.jpg)
+  ![Server Start](assets/img/Server_Start.jpg)
+  ![All Products](assets/img/All_Products.jpg)
+  ![All Categories](assets/img/All_Categories.jpg)
+  ![All Tags](assets/img/All_Tags.jpg)
 
 ## Contributing
 
@@ -32,4 +39,7 @@ This project will create an ecommerce database which you can view all the produc
   Email: Nickpodski@gmail.com
 
 ## Links
+
+  https://github.com/Nickpodski/E_Commerce_NP - Github Repo
+
   
